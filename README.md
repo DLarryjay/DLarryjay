@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DLarryjay
-- 👀 I’m interested in web development
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on Data Engineering
 - 📫 How to reach me jimohola101@gmail.com
 
 <!---
